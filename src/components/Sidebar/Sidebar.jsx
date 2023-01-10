@@ -82,7 +82,6 @@ const Sidebar = ({mode,setMode}) => {
             <ListItemText primary="Profile" />
           </ListItemButton>
         </ListItem>
-        
       </List>
       <List>
         <ListItem disablePadding>
