@@ -83,6 +83,7 @@ const Sidebar = ({mode,setMode}) => {
           </ListItemButton>
         </ListItem>
       </List>
+      
       <List>
         <ListItem disablePadding>
           <ListItemButton component="a" href="#setting">
